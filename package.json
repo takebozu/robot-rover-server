@@ -1,0 +1,17 @@
+{
+  "name": "robot-rover-server",
+  "version": "1.0.0",
+  "engines": {
+    "node": "8.10.0"
+  },
+  "description": "Robot rover server for TerraSky Family Day 2018",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "restify": "^7.2.1"
+  }
+}
